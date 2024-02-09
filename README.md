@@ -2,6 +2,8 @@
 
  This is my final project for Udacity's Intro to Java course.
 
+ You will find my code in starter/src/assets.
+
  You will be creating the core functionality used for a storefront
  application. The visual of the storefront and the JavaScript 
  necessary to connect the code you will write to that visual has
